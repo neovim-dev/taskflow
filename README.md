@@ -6,8 +6,6 @@
 
 A blazingly fast, terminal-based todo list manager built with Rust and Ratatui. Manage your tasks efficiently without leaving your terminal!
 
-![TaskFlow Demo](https://via.placeholder.com/800x400?text=TaskFlow+Demo+Screenshot)
-
 ## ✨ Features
 
 - 📝 Create, edit, and delete tasks
